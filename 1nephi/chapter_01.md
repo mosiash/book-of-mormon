@@ -25,7 +25,7 @@
 
 **1 Nephi 1:12** And it came to pass that as he read, he was filled with the Spirit of the Lord.
 
-**1 Nephi 1:13** And he read, saying: Woe woe unto Jerusalem, for I have seen thine abominations. Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
+**1 Nephi 1:13** And he read, saying: {% em %}Woe woe unto Jerusalem, for I have seen thine abominations.{% endem %} Yea, and many things did my father read concerning Jerusalem, that it should be destroyed and the inhabitants thereof; many should perish by the sword and many should be carried away captive into Babylon.
 
 > #### Quote:**I have seen thine** adulteries, and thy neighings, the lewdness of thy whoredom, and thine **abominations** on the hills in the fields. **Woe unto** thee, O **Jerusalem**! wilt thou not be made clean? when shall it once be?
 > [KJV Bible, 1769, Jeremiah 13:27](http://www.kingjamesbibleonline.org/Jeremiah-Chapter-13/)
